@@ -1,4 +1,4 @@
-## Dataset Hosted on [Data.world](http://data.world/)
+## Dataset Hosted on [Data.world](https://data.world/producthunt/product-hunt-research)
 
 The Product Hunt dataset (and info about the dataset) is hosted on [this data.world repo](https://data.world/producthunt/product-hunt-research). I contribute my finished work to that data.world repo, but I maintain my _working_ repo here in `git`.
 
